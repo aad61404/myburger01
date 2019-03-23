@@ -2,7 +2,7 @@
   "name": "my-burger01",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://aad61404.github.io/myburger/",
+  "homepage": "https://aad61404.github.io/myburger01/",
   "dependencies": {
     "autoprefixer": "7.1.6",
     "babel-core": "6.26.0",
